@@ -1,6 +1,6 @@
 # Im Zerrspiegel des Populismus
 ### Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter
-Dieses Repository bieten einigen Daten und Skripte zum Paper:
+Dieses Repository bietet einigen Daten und Skripte zum Paper:
 
 * von Nordheim, G. & Rieger, J. (2020). Im Zerrspiegel des Populismus - Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter. *Publizistik*. https://doi.org/10.1007/s11616-020-00591-7,
 * siehe auch https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus.
