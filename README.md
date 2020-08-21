@@ -25,3 +25,8 @@ For bug reports, comments and questions please use the [issue tracker](https://g
 * [ineq](https://cran.r-project.org/package=ineq) is used to calcaulate Gini coefficients.
 * [ggparliament](https://github.com/RobWHickman/ggparliament) is used for visualization of the parliament.
 * [beanplot](https://cran.r-project.org/package=beanplot) is used for visualize advanced boxplots.
+
+## Usage
+Please note: For legal reasons the repository cannot provide all data. Please [let us know](https://github.com/JonasRieger/zerrspiegel/issues) if you feel that there is anything missing that we could add. 
+
+Due to the limited possibility to provide the raw data, all created plots and CSV files are collected in the folders ``Plots`` and ``Parteiverlinkungen``. The scripts ``EDA.R`` (explorative data analysis), ``plotGini.R`` and ``plotLDA.R`` indicate the corresponding scripts. The script ``LDA.R`` shows how we calculated the different LDAs. All necessary data for the calculation are available. As an example we have stored the version with K = 30 Topics as result in the folder ``Modellieren``.
