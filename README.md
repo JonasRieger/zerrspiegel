@@ -2,16 +2,16 @@
 ### Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter
 Dieses Repository bietet einige Daten und Skripte zum Paper:
 
-* von Nordheim, G. & Rieger, J. (2020). Im Zerrspiegel des Populismus - Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter. *Publizistik*. https://doi.org/10.1007/s11616-020-00591-7,
-* siehe auch https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus.
+* [von Nordheim, G. & Rieger, J. (2020).](https://doi.org/10.1007/s11616-020-00591-7) Im Zerrspiegel des Populismus - Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter. *Publizistik* 65, pp. 403-424,
+* siehe auch [EJO](https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus).
 
 Für Fragen und Anmerkungen verwendet bitte den [issue tracker](https://github.com/JonasRieger/zerrspiegel/issues).
 
 #### Distorted by populism - A computational analysis of German parliamentarians’ linking practices on Twitter
 This repository provides some data and scripts related to the paper:
 
-* von Nordheim, G. & Rieger, J. (2020). Distorted by Populism – A computational analysis of German parliamentarians’ linking practices on Twitter [Im Zerrspiegel des Populismus – Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter]. *Publizistik*. https://doi.org/10.1007/s11616-020-00591-7,
-* see also https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus.
+* [von Nordheim, G. & Rieger, J. (2020).](https://doi.org/10.1007/s11616-020-00591-7) Distorted by Populism – A computational analysis of German parliamentarians’ linking practices on Twitter [Im Zerrspiegel des Populismus – Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter]. *Publizistik* 65, pp. 403-424,
+* see also [EJO](https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus).
 
 For bug reports, comments and questions please use the [issue tracker](https://github.com/JonasRieger/zerrspiegel/issues).
 
